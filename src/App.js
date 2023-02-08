@@ -42,8 +42,8 @@ function App() {
         
         Keep report short for around 2 paragraphs.
     
-        In your response, you can address directly. I mean you can say "You". 
-        Advice some pills.
+        In your response, you can address directly. Do not use name.
+        Advice some pills. You can give medications name.
         Do not write it like a letter. 
         Do not use medical caution sentences. Just write about the situation and advice our 
         company. Use these data for hair loss report:
@@ -77,12 +77,12 @@ function App() {
             <div>
                 <label htmlFor="firstname" className="formbold-form-label"> First name </label>
                 <input type="text" name="firstname" id="firstname" value={inputs.firstname || ""} onChange={handleChange}
-                placeholder="Mikalojus Konstantinas" className="formbold-form-input" />
+                placeholder="Name" className="formbold-form-input" />
             </div>
             <div>
                 <label htmlFor="lastname" className="formbold-form-label"> Last name </label>
                 <input type="text" name="lastname" id="lastname" value={inputs.lastname || ""} onChange={handleChange}
-                placeholder="Čiurlionis" className="formbold-form-input" />
+                placeholder="Surname" className="formbold-form-input" />
             </div>
             </div>
 

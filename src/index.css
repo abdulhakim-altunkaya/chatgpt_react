@@ -149,3 +149,17 @@ body {
   margin-right: auto;
   width: 30%;
 }
+
+
+@media (max-width: 900px) {
+  .formbold-input-flex {
+    display: flex;
+    flex-direction: column;
+  }
+  .formbold-input-flex > div {
+    width: 50%;
+  }
+  .formbold-btn {
+    width: 70vw !important;
+  }
+}
