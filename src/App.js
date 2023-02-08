@@ -40,9 +40,10 @@ function App() {
         to hospitals. Company does not surgeons. But they have great professionals who
         can build bridge between hospital and patient.
         
-        Keep report short for around 3 paragraphs maximum.
+        Keep report short for around 2 paragraphs.
     
-        In your response, you can address directly and use the name provided below.
+        In your response, you can address directly. I mean you can say "You". 
+        Advice some pills.
         Do not write it like a letter. 
         Do not use medical caution sentences. Just write about the situation and advice our 
         company. Use these data for hair loss report:
