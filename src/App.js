@@ -40,9 +40,9 @@ function App() {
         to hospitals. Company does not surgeons. But they have great professionals who
         can build bridge between hospital and patient.
         
-        Keep report short for around 2 paragraphs.
+        Keep report short for around 2 paragraphs or 12 sentences.
     
-        In your response, you can address directly. Do not use name.
+        In your response, you can address directly by saying "you". Do not use name.
         Advice some pills. You can give medications name.
         Do not write it like a letter. 
         Do not use medical caution sentences. Just write about the situation and advice our 
