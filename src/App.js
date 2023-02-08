@@ -26,7 +26,7 @@ function App() {
     <div className="App">
       <form onSubmit={handleSubmit}>
         <input type="text" value={inputValue} onChange={(e) => setInputValue(e.target.value)}/>
-        <button type="submit">SUBMIT SIR</button>
+        <button type="submit">SUBMIT MY SIR</button>
       </form>
       <p>{displayValue}</p>
     </div>
